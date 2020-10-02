@@ -30,7 +30,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Appwrite**
 
-- **Swag**: T-Shirt, stickers, magnets, and buttons
+- **Swag**: T-Shirt, stickers, magnets and buttons
 - **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite)
   - 1+ merged PR: Stickers, magnets, and buttons
   - Top contributors: Appwrite T-Shirt.
